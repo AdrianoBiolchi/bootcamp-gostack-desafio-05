@@ -70,8 +70,8 @@ export const IssueList = styled.ul`
           }
         }
         span {
-          background: #eee;
-          color: #333;
+          background: #3498db;
+          color: #fff;
           border-radius: 2px;
           font-size: 12px;
           font-weight: 600;

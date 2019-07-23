@@ -18,6 +18,10 @@ const Container = styled.div`
   svg {
     margin-right: 10px;
   }
+  p {
+    margin-top: 10px;
+    color: #ff6b6b;
+  }
 `;
 
 export default Container;
